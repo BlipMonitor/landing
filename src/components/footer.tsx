@@ -152,16 +152,16 @@ function SocialLinks() {
       >
         <SocialIconLinkedIn className="size-4" />
       </Link> */}
-      <Link
+      {/* <Link
         href="https://x.com"
         target="_blank"
         aria-label="Visit us on X"
         className="text-gray-950 data-[hover]:text-gray-950/75"
       >
         <SocialIconX className="size-4" />
-      </Link>
+      </Link> */}
       <Link
-        href="https://discord.com"
+        href="https://discord.com/channels/897514728459468821/1286047895845601301"
         target="_blank"
         aria-label="Visit us on Discord"
         className="text-gray-950 data-[hover]:text-gray-950/75"
@@ -169,7 +169,7 @@ function SocialLinks() {
         <SocialIconDiscord className="size-4" />
       </Link>
       <Link
-        href="https://github.com"
+        href="https://github.com/BlipMonitor"
         target="_blank"
         aria-label="Visit us on GitHub"
         className="text-gray-950 data-[hover]:text-gray-950/75"
